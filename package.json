@@ -28,5 +28,17 @@
     "less": "^3.0.4",
     "less-loader": "^5.0.0",
     "vue-template-compiler": "^2.6.11"
-  }
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y-a-ng/toutiao-publish-admin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/y-a-ng/toutiao-publish-admin/issues"
+  },
+  "homepage": "https://github.com/y-a-ng/toutiao-publish-admin#readme"
 }
